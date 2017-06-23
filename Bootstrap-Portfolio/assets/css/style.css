@@ -159,9 +159,9 @@
 	display: inline;
 }
 
-.botFooter {
-	clear: fixed;
-	position: relative;
+.wrapper {
+  height: auto;
+  min-height: 100%;
 }
 
 .botPanFooter {
@@ -170,7 +170,6 @@
 	height: 80px;
 	background: #666666;
 	border-top: 5px solid #4aaaa5;
-	clear: padding;
 	padding: 15px 0px 15px 0px;
 	margin-bottom: -15px;
 }
