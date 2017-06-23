@@ -159,9 +159,8 @@
 	display: inline;
 }
 
-.wrapper {
-  height: auto;
-  min-height: 100%;
+.push {
+	height: 90px;
 }
 
 .botPanFooter {
